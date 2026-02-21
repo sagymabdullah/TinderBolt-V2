@@ -28,7 +28,7 @@ cd TinderBolt-V2
 pip install -r requirements.txt
 
 3. Create a `.env` file in the project root and add your Telegram Bot Token:
-TELEGRAM_TOKEN=your_token_here
+TELEGRAM_TOKEN=123456789:ABCDEF-your-token-example
 
 ---
 
