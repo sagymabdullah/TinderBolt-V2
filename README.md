@@ -57,3 +57,10 @@ If you need an English version, please use translation tools or contribute by ad
 Please note: I am an individual developer, not a large team.  
 Comments, issues, and pull requests may take time to review.  
 I appreciate your patience and understanding — all constructive feedback is welcome!
+
+## About Money
+
+This project is open-source and free to use.  
+It is not a commercial product and is not for sale.  
+Donations are welcome as voluntary support, but there is no fixed price.  
+Official business transactions will only be possible once I register as an individual entrepreneur (ЖК).
