@@ -43,3 +43,11 @@ python bot.py
 
 ## License
 This project is licensed under the MIT License.
+
+## Note on Language
+
+This project is primarily documented in **Russian**.  
+Some descriptions, comments, and instructions may appear in Russian.  
+The code itself is universal, but documentation may not be fully translated.  
+
+If you need an English version, please use translation tools or contribute by adding English documentation.
