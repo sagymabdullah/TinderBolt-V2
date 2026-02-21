@@ -51,3 +51,9 @@ Some descriptions, comments, and instructions may appear in Russian.
 The code itself is universal, but documentation may not be fully translated.  
 
 If you need an English version, please use translation tools or contribute by adding English documentation.
+
+## Feedback Policy
+
+Please note: I am an individual developer, not a large team.  
+Comments, issues, and pull requests may take time to review.  
+I appreciate your patience and understanding — all constructive feedback is welcome!
