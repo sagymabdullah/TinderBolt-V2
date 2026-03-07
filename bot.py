@@ -202,7 +202,7 @@ dialog.list= []
 dialog.count= 0
 dialog.user = {}
 
-chatgpt = ChatGptService(token="javcgk8pFZZssAv/GAaLFtpU2XRxcYwvevXZIyGFAmFZI3L06qepS/RV1vwI5WWJCzXUXxhEgBL78gsqw097AFLgJhfSJIYTGLJXuNmmC1WHnD5rLqK5bovPAMquTedVct0tMO3YKL7WnwWVBYot49YP/DsQPPKt8po+UHHV7OmqYXjjYWW2CcTundXGhGuyvJm5sNKlWWp5DZqBhLIWahLjBMGuOH0m3XMutHaIG8dtbZZqI=")
+chatgpt = ChatGptService(token=your-openai-api-key)
 
 app = ApplicationBuilder().token("TELEGRAM_TOKEN=123456789:ABCDEF-your-token-example").build()
 app.add_handler(CommandHandler("start", start))
